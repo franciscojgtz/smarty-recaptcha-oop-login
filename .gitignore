@@ -1,0 +1,5 @@
+#Inore the file named 'dbconfig.php'
+classes/dbconfig.php
+
+# exclude everything in templates_c/
+templates_c/*
