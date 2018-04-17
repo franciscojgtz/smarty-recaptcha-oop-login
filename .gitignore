@@ -5,4 +5,4 @@ classes/dbconfig.php
 templates_c/*
 
 #exclude recaptcha global keys
-configs/recapthcaglobalkeys.php
+configs/recaptchaglobalkeys.php
