@@ -3,3 +3,6 @@ classes/dbconfig.php
 
 # exclude everything in templates_c/
 templates_c/*
+
+#exclude recaptcha global keys
+configs/recapthcaglobalkeys.php
